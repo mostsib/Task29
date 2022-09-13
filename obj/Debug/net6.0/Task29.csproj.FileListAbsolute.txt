@@ -1,0 +1,15 @@
+/Users/puchkov/Examples/Task29/bin/Debug/net6.0/Task29
+/Users/puchkov/Examples/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/puchkov/Examples/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/puchkov/Examples/Task29/bin/Debug/net6.0/Task29.dll
+/Users/puchkov/Examples/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.dll
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/refint/Task29.dll
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
+/Users/puchkov/Examples/Task29/obj/Debug/net6.0/ref/Task29.dll
